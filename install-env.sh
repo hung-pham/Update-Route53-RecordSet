@@ -1,6 +1,6 @@
 #!/bin/bash
 main(){
-    #install_util_tools
+    #install_util_tools111
     install_aws_cli
     install_jq_lib
     install_run_script
